@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>Moodle Mobile</name>
+    <name>Elimisha Academy</name>
 
     <description>
-        Moodle Mobile official app
+        Elimisha Academy official learning app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://eschools-interactives.com" email="info@eschools-interactives.com">
+        eSchools Interctaives
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
