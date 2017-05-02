@@ -2,9 +2,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "ke.academy.elimisha.moodlemobile"
         versionCode = "20170"
-        version   = "3.2.1">
+        version   = "1.2.2">
     <name>Elimisha Academy</name>
 
     <description>
@@ -12,11 +12,11 @@
     </description>
 
     <author href="http://eschools-interactives.com" email="info@eschools-interactives.com">
-        eSchools Interctaives
+        eSchools Interactives
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.2.1</string>
+        <string>1.2.2</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
@@ -140,7 +140,7 @@
     <gap:plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
 
     <gap:config-file platform="android" parent="/manifest">
-         <application android:debuggable="true" />
+         <application android:debuggable="false" />
     </gap:config-file>
 
     <!-- See MOBILE-892 -->
