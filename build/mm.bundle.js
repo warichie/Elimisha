@@ -51884,7 +51884,7 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "ke.academy.elimisha.moodlemobile",
+    "app_id" : "ke.elimisha.academy",
     "appname": "Elimisha Academy",
     "versioncode" : "2017",
     "versionname" : "3.2.1",
